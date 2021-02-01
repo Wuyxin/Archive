@@ -26,6 +26,8 @@ Some selected summaries, research reports and the like, which I think I might fi
      * Teammates:  Yu Wang, yuhan Dai(all USTCers).
      *  One-sentence Summary: We successfully inplemented a USTC Question Answering system based on AskMSR(Brill et. al, EMNLP 2002) and the results are well analyzed qualitatively and quantitatively.
 * **Summaries**
+   * **Causality- Models, Reasoning and Inference**
+     *  **Chap1- Introduction to Probabilities Graphs and Causal Models.pdf**
    * **Artificial Intelligence-2019.pdf**:
      *  course summary for Artificial Intelligence(Associate Prof. Linli Xu, USTC)
      *  One-sentence Summary: including Search, Constraint satisfaction problems, Logical Agent, First-order logical reasoning, Uncertainty quantification and probabilistic reasoning and so on.
