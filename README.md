@@ -1,7 +1,6 @@
 
 
-# Knowledge Place 
-### (Just a cool name)
+# Academic Collections for Personal Archiving
 
 Some selected summaries, research reports and the like, which I think I might find useful when doing sth. professional.
 
