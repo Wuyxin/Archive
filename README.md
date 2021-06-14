@@ -2,7 +2,7 @@
 
 # Academic Collections for Personal Archiving
 
-Some selected summaries, research reports and the like, which I think I might find useful when doing sth. professional.
+Some selected summaries, research reports and the like, which I think might be useful when doing sth. professional.
 
 * **Competition**
    * **OPRM-MCM_ICM_Competition_2020.pdf**:
