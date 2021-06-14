@@ -1,6 +1,6 @@
 
 
-# Academic Collections for Personal Archiving
+# Personal Academic Archiving
 
 Some selected summaries, research reports and the like, which I think might be useful when doing sth. professional.
 
