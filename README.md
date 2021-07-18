@@ -1,9 +1,8 @@
 
 
-# Knowledge Place 
-### (Just a cool name)
+# Personal Academic Archiving
 
-Some selected summaries, research reports and the like, which I think I might find useful when doing sth. professional.
+Some selected summaries, research reports and the like, which I think might be useful when doing sth. professional.
 
 * **Competition**
    * **OPRM-MCM_ICM_Competition_2020.pdf**:
@@ -12,19 +11,22 @@ Some selected summaries, research reports and the like, which I think I might fi
      * One-sentence Summary: We put forward the Ball Passing Graph Model (BPGM), the Competitive-Oriented Index Estimation System(COIES), and the Optimal Passing Route Model (OPRM) for a complete analysis for the Huskies’ team cooperation properties.
      * Result: Meritorious Winner(7.09%)
 * **Research Reports**
-   * **Collaborative Filtering Models-Intro to Data Science-2019.pdf**:
-     *  course work for Intro to Data Science(Prof. Qi Liu, USTC)
-     *  One-sentence Summary: A reasearch for Collaborative Filtering Models including NCF(He et. al, WWW 2017), CMN(Ebesu et. al, SIGIR 2018), NCGF(Wang et. al, SIGIR 2019) in recommendation.
+  * **Survey of Multivariate Mutual Information-Information Theory-2021.pdf**
+    *  course work for Information Theory A (Prof. Wenyi Zhang, USTC)
+    *  One-sentence Summary: We extensively summarize the recent researches of Multivariate Mutual Information (MMI) from aspects of entropic, partial information decomposition and topology, and we unify the metrics by Graph Convergence Measure, following the work of Rahimzamani et al. (2018).
+  * **USTC QA system-NLP-2020.pdf**
+    *  course experiment for Nature Language Processing(Prof. Zhenhua Ling, USTC)
+     * Teammates:  Yu Wang, yuhan Dai(all USTCers).
+     *  One-sentence Summary: We successfully inplemented a USTC Question Answering system based on AskMSR(Brill et. al, EMNLP 2002) and the results are well analyzed qualitatively and quantitatively.
    * **Core Vetor Machine-Algorithms for Big Data-2020.pdf**
       *  course work for Algorithms for Big Data(Prof. Hu Ding, USTC)
      *  One-sentence Summary: Core Vector Machine uses the idea of Minimum Enclosing Ball(MEB) so as to approximate the optimal solution from Support Vector Machine, and the time complexity of this algorithm is independent of the size of the training set.
   * **Inexact One-dimensional Search-Operation Research-2020.pdf**
       *  course work for Operations research(Prof. Zhouwang Yang, USTC)
      *  One-sentence Summary: I implemented Goldstein step criterion and Wolfe-Powell step criterion for finding the global minimum of certein functions.
-  * **USTC QA system-NLP-2020.pdf**
-    *  course experiment for Nature Language Processing(Prof. Zhenhua Ling, USTC)
-     * Teammates:  Yu Wang, yuhan Dai(all USTCers).
-     *  One-sentence Summary: We successfully inplemented a USTC Question Answering system based on AskMSR(Brill et. al, EMNLP 2002) and the results are well analyzed qualitatively and quantitatively.
+  * **Collaborative Filtering Models-Intro to Data Science-2019.pdf**:
+    *  course work for Intro to Data Science(Prof. Qi Liu, USTC)
+    *  One-sentence Summary: A reasearch for Collaborative Filtering Models including NCF(He et. al, WWW 2017), CMN(Ebesu et. al, SIGIR 2018), NCGF(Wang et. al, SIGIR 2019) in recommendation.
 * **Summaries**
    * **Causality- Models, Reasoning and Inference**
      *  **Chap1- Introduction to Probabilities Graphs and Causal Models.pdf**
